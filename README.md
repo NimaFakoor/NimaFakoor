@@ -2,9 +2,9 @@
 - 👀 I’m curious
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on development
-- 📫 reach me online or +989981152473
+- 📫 reach me online whit @NimaFakoor or n.fakoor0@gmail.com or +989981152473 or 0.0
 
-<!---
-NimaFakoor/NimaFakoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NimaFakoor&hide_border=true)](https://git.io/streak-stats)
