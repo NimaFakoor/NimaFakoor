@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nima
+- 👋 Hi, I’m Nima - interested [PGM](https://wikipedia.org/wiki/PGM)
 - 👀 I’m curious + trying to stack
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on development
